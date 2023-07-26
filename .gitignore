@@ -1,0 +1,6 @@
+#Ignore all folders named as follows, in all subfolders
+simw-top/
+
+
+#Ignore all files with the specified extension
+#*.code-workspace
